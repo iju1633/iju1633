@@ -1,7 +1,7 @@
-- 👋 Hi, I’m JaeUk Im from University of Seoul majoring in computer science.
+- 👋 Hi, I’m JaeUk I am from University of Seoul majoring in computer science.
 - 👀 I’m interested in being Java Backend Developer and Computer Scientist.
-- 🌱 I’m currently learning Spring Boot and C.
-- 💞️ I’m looking to do a project that can improve the delivery algorithm.
+- 🌱 I’m currently learning Spring Boot and Kotlin.
+- 💞️ I’m contributing to 2 projects for now. One with developing app with Kotlin and the other with building a server with Spring Boot.
 - 📫 How to reach me
     - e-mail : iju1633@gmail.com
 
