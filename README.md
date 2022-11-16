@@ -1,11 +1,6 @@
-- 👋 Hi, I’m JaeUk I am from University of Seoul majoring in computer science.
-- 👀 I’m interested in being Java Backend Developer and Computer Scientist.
-- 🌱 I’m currently learning Spring Boot and Kotlin.
-- 💞️ I’m contributing to 2 projects for now. One with developing app with Kotlin and the other with building a server with Spring Boot.
-- 📫 How to reach me
-    - e-mail : iju1633@gmail.com
+<a href="버튼을 눌렀을 때 이동할 링크" target="https://cyclic-baboon-a84.notion.site/7fb47147585942ab9dbd05d6210a6020"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"> <img src="https://img.shields.io/badge/iju1633@gmail.com-E8CDCD?style=flat-square&logo=Gmail&logoColor=red">
 
-<!---
-iju1633/iju1633 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![55 Go-getter Quotes To Take Action And Slay Your Goals Now](https://user-images.githubusercontent.com/43805087/202103786-3f041fa2-5adf-4d95-b37c-c9e7a1f674f1.jpeg)
+
+- 👋 Hi, I’m JaeUk I am from University of Seoul majoring in computer science.
+- 👀 I will be working as a Backend developer.
