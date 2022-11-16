@@ -2,6 +2,6 @@
 
 ![55 Go-getter Quotes To Take Action And Slay Your Goals Now](https://user-images.githubusercontent.com/43805087/202103786-3f041fa2-5adf-4d95-b37c-c9e7a1f674f1.jpeg)
 
-- 👋 Hi, I’m JaeUk I am from University of Seoul majoring in computer science.
+- 👋 Hi, I am a student at the University of Seoul, currently majoring in computer science and I am junior this year.
 - 💻 I will be working as a Backend developer.
-- 🌐 I am currently the lead of GDSC, an intramural development community.
+- 🌐 I am currently the lead of GDSC(Google Development Student Clubs), an intramural development community.
