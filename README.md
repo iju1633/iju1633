@@ -2,7 +2,7 @@
   
 ![JaeUk's GitHub stats](https://github-readme-stats.vercel.app/api?username=iju1633&show_icons=true&theme=vue)
 
-- 👋 Hi, I’m from University of Seoul majoring in computer science.
-- 💻 I will be working as a Backend developer.
-- 🌐 I am currently the lead of GDSC, an intramural development community.
-- 👀 If you want to know more about me, please refer to my portfolio.
+👋 Hi, I’m from University of Seoul majoring in computer science.
+💻 I will be working as a Backend developer.
+🌐 I am currently the lead of GDSC, an intramural development community.
+👀 If you want to know more about me, please refer to my portfolio.
