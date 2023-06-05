@@ -5,7 +5,7 @@
 
 <img src="https://img.shields.io/badge/iju1633@gmail.com-E8CDCD?style=flat-square&logo=Gmail&logoColor=red">
 
-👋 Hi, I am currently attending the University of Seoul, majoring in computer science.  
-🌐 I served as the leader of the 2022-2023 UOS GDSC, a 37-member IT community.  
-😆 I try to expose myself to an environment that constantly motivates me.  
-👀 If you want to know more about me, please refer to my portfolios.
+👋 스스로 성장하는 개발자를 핵심 목표로 두고 있습니다.  
+🌐 IT Community의 Lead로 활동하며 37명을 이끈 경험이 있습니다.  
+😆 자신이 이해한 것을 남에게 설명하기를 좋아합니다.  
+👀 끊임없이 동기부여되는 환경에 스스로를 노출하고자 합니다.
