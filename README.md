@@ -38,9 +38,11 @@
   <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white">
   <img src="https://img.shields.io/badge/Mockito-DC143C?style=for-the-badge&logo=mockito&logoColor=white">
+  <img src="https://img.shields.io/badge/PHP-777BB4.svg?&style=for-the-badge&logo=php&logoColor=white">
+  <img src="https://img.shields.io/badge/Thymeleaf-005F0F.svg?&style=for-the-badge&logo=thymeleaf&logoColor=white">
   <br>
 
-<div align=center><h2>📱 Android & Web</h2></div>
+<div align=center><h2>📱 Android</h2></div>
 <div align=center> 
   <img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/Kotlin-0095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white">
@@ -54,8 +56,6 @@
   <img src="https://img.shields.io/badge/MVVM-FF00BF.svg?&style=for-the-badge&logo=android&logoColor=white">
   <img src="https://img.shields.io/badge/MPAndroidChart-8BC34A.svg?&style=for-the-badge&logo=android&logoColor=white">
   <img src="https://img.shields.io/badge/Room-FF9800.svg?&style=for-the-badge&logo=android&logoColor=white">
-  <img src="https://img.shields.io/badge/PHP-777BB4.svg?&style=for-the-badge&logo=php&logoColor=white">
-  <img src="https://img.shields.io/badge/Thymeleaf-005F0F.svg?&style=for-the-badge&logo=thymeleaf&logoColor=white">
 
 <div align=center><h2>🛠️ Tools</h2></div>
 <div align=center> 
